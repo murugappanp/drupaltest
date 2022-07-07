@@ -7,6 +7,8 @@ the [Drupal community][Drupal community].
 
 ## Contributing
 
+This is modified by Muru
+
 Drupal is developed on [Drupal.org][Drupal.org], the home of the international
 Drupal community since 2001!
 
